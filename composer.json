@@ -1,0 +1,17 @@
+{
+    "name": "devionz/enum",
+    "description": "Simple enum implementation for PHP prior to 8.1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Devionz\\Enum\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DevIonz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
