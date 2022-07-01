@@ -9,9 +9,8 @@
     },
     "authors": [
         {
-            "name": "DevIonz"
+            "name": "Devionz"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
